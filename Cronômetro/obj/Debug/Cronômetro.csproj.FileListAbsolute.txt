@@ -1,0 +1,8 @@
+D:\estudo c#\CRONOMETRO\Cronômetro\bin\Debug\Cronômetro.exe.config
+D:\estudo c#\CRONOMETRO\Cronômetro\bin\Debug\Cronômetro.exe
+D:\estudo c#\CRONOMETRO\Cronômetro\bin\Debug\Cronômetro.pdb
+D:\estudo c#\CRONOMETRO\Cronômetro\obj\Debug\Cronômetro.csproj.AssemblyReference.cache
+D:\estudo c#\CRONOMETRO\Cronômetro\obj\Debug\Cronômetro.csproj.SuggestedBindingRedirects.cache
+D:\estudo c#\CRONOMETRO\Cronômetro\obj\Debug\Cronômetro.csproj.CoreCompileInputs.cache
+D:\estudo c#\CRONOMETRO\Cronômetro\obj\Debug\Cronômetro.exe
+D:\estudo c#\CRONOMETRO\Cronômetro\obj\Debug\Cronômetro.pdb
